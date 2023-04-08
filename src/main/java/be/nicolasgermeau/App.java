@@ -11,9 +11,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-/**
- * Hello world!
- */
 public class App {
     private final static Integer STARTING_PAGE = 1;
     private final static Integer ENDING_PAGE = 418;
