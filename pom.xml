@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.nicolasgermeau</groupId>
-  <artifactId>med-bel-sc</artifactId>
+  <artifactId>med-bel-scrapper</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>med-bel-sc</name>
